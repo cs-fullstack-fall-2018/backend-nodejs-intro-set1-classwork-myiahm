@@ -1,3 +1,6 @@
+// KEY: Not sure what u are talking about. This works! :-P
+// http://localhost:5000/?testScore=85  // YOU PASSED!
+// http://localhost:5000/?testScore=45 // YOU FAILED!!!
 
 var express = require("express");
 var app = express();
